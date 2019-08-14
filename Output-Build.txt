@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: rush, Configuration: Debug Win32 ------
+1>  Player.cpp
+1>  rush.vcxproj -> C:\Users\user\Desktop\changhyeon\rush\Debug\rush.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
